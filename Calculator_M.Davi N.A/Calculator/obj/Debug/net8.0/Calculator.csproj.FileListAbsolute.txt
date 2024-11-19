@@ -1,0 +1,14 @@
+E:\Calculator_M.Davi N.A\Calculator\bin\Debug\net8.0\Calculator.exe
+E:\Calculator_M.Davi N.A\Calculator\bin\Debug\net8.0\Calculator.deps.json
+E:\Calculator_M.Davi N.A\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+E:\Calculator_M.Davi N.A\Calculator\bin\Debug\net8.0\Calculator.dll
+E:\Calculator_M.Davi N.A\Calculator\bin\Debug\net8.0\Calculator.pdb
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.dll
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.pdb
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+E:\Calculator_M.Davi N.A\Calculator\obj\Debug\net8.0\ref\Calculator.dll
